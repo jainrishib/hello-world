@@ -1,4 +1,6 @@
 hello-world
 ===========
 
-Just another tp..
+Hey,
+
+  I am Rishi, and i dont like coding...
